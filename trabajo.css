@@ -1,0 +1,138 @@
+* {
+  font-family: sans-serif;
+}
+
+.custom-navbar{
+  background-color: #34393F;
+}
+
+.logo {
+  width: 6rem;
+  height: auto;
+}
+
+.main-image {
+  max-width: 100%;
+  height: auto;
+  opacity: 0.5;
+}
+
+.main-image-container {
+  background-color: black;
+  position: relative
+}
+
+.main-image-desc {
+  position: absolute;
+  top: 30%;
+  right: 10%;
+  width: 100%;
+  text-align: right;
+  color: white;
+}
+
+.main-image-desc-title {
+  font-size: 2.5rem;
+}
+
+.main-image-desc-text {
+  font-size: 1.25rem;
+  right: 10%;
+}
+
+.transparent-button {
+  background-color: #FFFFFF00;
+  color: white;
+  border: white solid 1px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.tickets-button {
+  background-color: rgb(98, 202, 98);
+  color: white;
+  border: rgb(98, 202, 98) solid 1px;
+  border-radius: 5px;
+  padding: 7px;
+}
+
+.small-font {
+  font-size: small;
+}
+
+.custom-card-text {
+  font-size: small;
+  text-align: justify;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border: rgb(130, 130, 130) solid 1px;
+}
+
+.image-desc-container{
+  background-color: #34393F;
+}
+
+.image-desc-title {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: none;
+}
+
+.image-desc-text {
+  color: rgb(210, 210, 210);
+  font-size: 0.75rem;
+  text-align: justify;
+}
+
+.know-more-button{
+  font-size: 0.75rem;
+  color: rgb(210, 210, 210);
+  border:rgb(210, 210, 210) solid 1px;
+  background-color: #FFFFFF00;
+  border-radius: 3px;
+  padding: 7px;
+}
+
+.custom-input{
+  font-size: 0.75rem;
+  min-height: 26px;
+  border:rgb(200, 200, 200) solid 1px;
+  border-radius: 3px;
+}
+
+.custom-text-area{
+  margin-top: 3px;
+  font-size: 1rem;
+  padding: 10px;
+  min-height: 100px;
+  border:rgb(200, 200, 200) solid 1px;
+  border-radius: 5px;
+}
+
+.custom-label{
+  font-size: 0.65rem;
+  color: rgb(120, 120, 120);
+}
+
+.custom-button{
+  color: white;
+  background-color: rgb(119, 216, 63);
+  border:rgb(119, 216, 63) solid 1px;
+  border-radius: 5px;
+  padding: 7px;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #1E4358;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #C6DBE5;
+  font-size: 12px;
+  font-weight: 600;
+}
